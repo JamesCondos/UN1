@@ -1,9 +1,0 @@
-D:\Development\UN1\Source\SharpProxy-master\SharpProxy\bin\Release\SharpProxy.exe.config
-D:\Development\UN1\Source\SharpProxy-master\SharpProxy\bin\Release\SharpProxy.exe
-D:\Development\UN1\Source\SharpProxy-master\SharpProxy\bin\Release\SharpProxy.pdb
-D:\Development\UN1\Source\SharpProxy-master\SharpProxy\obj\x86\Release\SharpProxy.frmMain.resources
-D:\Development\UN1\Source\SharpProxy-master\SharpProxy\obj\x86\Release\SharpProxy.Properties.Resources.resources
-D:\Development\UN1\Source\SharpProxy-master\SharpProxy\obj\x86\Release\SharpProxy.csproj.GenerateResource.cache
-D:\Development\UN1\Source\SharpProxy-master\SharpProxy\obj\x86\Release\SharpProxy.csproj.CoreCompileInputs.cache
-D:\Development\UN1\Source\SharpProxy-master\SharpProxy\obj\x86\Release\SharpProxy.exe
-D:\Development\UN1\Source\SharpProxy-master\SharpProxy\obj\x86\Release\SharpProxy.pdb
