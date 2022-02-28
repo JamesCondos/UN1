@@ -1,0 +1,5 @@
+D:\Development\UN1\Source\UN1\UN1App\UN1App.Android\obj\Debug\50\MonoAndroid,Version=v5.0.AssemblyAttributes.cs
+D:\Development\UN1\Source\UN1\UN1App\UN1App.Android\obj\Debug\50\UN1App.Android.nuget.stamp
+D:\Development\UN1\Source\UN1\UN1App\UN1App.Android\obj\Debug\50\UN1App.Android.csprojAssemblyReference.cache
+D:\Development\UN1\Source\UN1\UN1App\UN1App.Android\obj\Debug\50\libraryimports.cache.stamp
+D:\Development\UN1\Source\UN1\UN1App\UN1App.Android\obj\Debug\50\res.flag

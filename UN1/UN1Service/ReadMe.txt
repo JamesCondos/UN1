@@ -1,0 +1,2 @@
+﻿    <add name="DefaultConnection" connectionString="Data Source=DATABASE\SQLExpress;Initial Catalog=UN1;User ID=sa;Password=p@ssword" providerName="System.Data.SqlClient" />
+    <add name="DefaultConnectionXXX" connectionString="Data Source=cksoft-systems.com;Initial Catalog=cksoft-UN1;User ID=Fatthie8819;Password=Fattzq1e3w2" providerName="System.Data.SqlClient" />

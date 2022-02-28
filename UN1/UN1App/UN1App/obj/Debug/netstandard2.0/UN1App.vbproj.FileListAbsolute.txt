@@ -1,0 +1,28 @@
+D:\Development\UN1\Source\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.vbproj.CoreCompileInputs.cache
+D:\Development\UN1\Source\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.AssemblyInfoInputs.cache
+D:\Development\UN1\Source\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.AssemblyInfo.vb
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\UN1App.deps.json
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\UN1App.dll
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\UN1App.pdb
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\UN1App.xml
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\System.Security.dll
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\Development\UN1\Source\UN1\UN1App\UN1App\bin\Debug\netstandard2.0\System.Security.xml
+D:\Development\UN1\Source\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Development\UN1\Source\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.vbproj.CopyComplete
+D:\Development\UN1\Source\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.dll
+D:\Development\UN1\Source\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.xml
+D:\Development\UN1\Source\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.pdb
+C:\Users\James Condos\Downloads\20200412UN1\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.vbprojAssemblyReference.cache
+C:\Users\James Condos\Downloads\20200412UN1\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.AssemblyInfoInputs.cache
+C:\Users\James Condos\Downloads\20200412UN1\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.AssemblyInfo.vb
+C:\Users\James Condos\Downloads\20200412UN1\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.dll
+C:\Users\James Condos\Downloads\20200412UN1\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.xml
+C:\Users\James Condos\Downloads\20200412UN1\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.pdb
+C:\Users\James Condos\Downloads\20200412UN1\UN1\UN1App\UN1App\obj\Debug\netstandard2.0\UN1App.vbproj.CoreCompileInputs.cache
